@@ -21,6 +21,7 @@ public class ex1 {
                 scanner.next();
             }
         }
+        scanner.close();
         return number;
     }
 }
